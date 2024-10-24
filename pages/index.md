@@ -3,8 +3,6 @@ layout: page
 home-title: 在线工具
 description: 可能是最好看的在线工具
 permalink: /index.html
-langs: ["zh-Hans", "en"]
-lang: "zh-Hans"
 ---
 
 # 在线工具
