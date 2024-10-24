@@ -12,25 +12,25 @@ author: 'Hin'     # 作者
 nickname: 'Hin'   # 昵称
 bio: '人类美学的奇迹'   # 一句话描述
 avatar: '/assets/img/profile.webp'   # 头像，可以是外部链接
-sns:   # 彩色社交图标，默认无配置，按需添加。
-  google-scholar: 'https://scholar.google.com/'        # 谷歌学术链接
-  researchgate: 'https://www.research.net/profile/'    # ResearchGate 链接
-  ORCID: 'https://orcid.org/'                          # ORCID 链接
-  github: 'https://github.com/zhonger'                 # Github 链接
-  linkedin: 'https://www.linkedin.com/in/'             # 领英链接
-  segmentfault: 'https://segmentfault.com/u/'          # SegmentFault 链接
-  email: 'i@jekyll-theme-h2o-ac.com'   # 邮箱
-  weibo: 'https://weibo.com/username'  # 微博链接
-  zhihu: 'https://zhihu.com'           # 知乎链接
-  twitter: 'https://twitter.com'       # 推特链接
-  instagram: 'https://instagram.com'   # Instagram 链接
-  juejin: 'https://juejin.com'         # 掘金链接
-  douban: 'https://douban.com'         # 豆瓣网链接
-  facebook: 'https://facebook.com'     # 脸书链接
-  dribble: 'https://dribble.com'       # Dribble 链接
-  uicn: 'https://www.ui.cn'            # UI 中国链接
-  jianshu: 'https://jianshu.com'       # 简书链接
-  medium: 'https://medium.com'         # Medium 链接
+# sns:   # 彩色社交图标，默认无配置，按需添加。
+#   google-scholar: 'https://scholar.google.com/'        # 谷歌学术链接
+#   researchgate: 'https://www.research.net/profile/'    # ResearchGate 链接
+#   ORCID: 'https://orcid.org/'                          # ORCID 链接
+#   github: 'https://github.com/zhonger'                 # Github 链接
+#   linkedin: 'https://www.linkedin.com/in/'             # 领英链接
+#   segmentfault: 'https://segmentfault.com/u/'          # SegmentFault 链接
+#   email: 'i@jekyll-theme-h2o-ac.com'   # 邮箱
+#   weibo: 'https://weibo.com/username'  # 微博链接
+#   zhihu: 'https://zhihu.com'           # 知乎链接
+#   twitter: 'https://twitter.com'       # 推特链接
+#   instagram: 'https://instagram.com'   # Instagram 链接
+#   juejin: 'https://juejin.com'         # 掘金链接
+#   douban: 'https://douban.com'         # 豆瓣网链接
+#   facebook: 'https://facebook.com'     # 脸书链接
+#   dribble: 'https://dribble.com'       # Dribble 链接
+#   uicn: 'https://www.ui.cn'            # UI 中国链接
+#   jianshu: 'https://jianshu.com'       # 简书链接
+#   medium: 'https://medium.com'         # Medium 链接
 
 
 #### 主题信息
@@ -58,7 +58,7 @@ nav:
 ##### 侧边栏配置
 links: # 友情链接（侧边栏），键值对定义显示名称与链接，可以是中文名（需使用引号）。
   'Mr Li': 'https://lisz.me'
-calendar: true  # 是否开启文章发表日历（侧边栏与归档页）
+calendar: false  # 是否开启文章发表日历（侧边栏与归档页）
 recommend-tags: true           # 是否显示推荐便签
 recommend-condition-size: 12   # 显示推荐标签数量
 ##### 底部版权栏
