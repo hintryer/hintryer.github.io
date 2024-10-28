@@ -3,15 +3,20 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+  
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://jinhanlei.github.io/posts/Jekyll+%E6%A8%A1%E6%9D%BF-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%BA%8C-%E6%A8%A1%E6%9D%BF%E4%BF%AE%E6%94%B9'                   # Fill with your Bluesky profile link
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
