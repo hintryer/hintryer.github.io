@@ -1,8 +1,8 @@
- ---
- layout: archives
- icon: fas fa-archive
- order: 5
- ---
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 5
+---
 
  
 | 内容     | 网址 | 说明 |
