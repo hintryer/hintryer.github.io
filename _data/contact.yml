@@ -15,7 +15,7 @@
 #  noblank: true
 - type: bluesky
   icon: 'fa-solid fa-screwdriver-wrench'
-  url: 'https://hincom.github.io/tool/read.html'                   # Fill with your Bluesky profile link
+  url: 'https://hincom.github.io/tool/Read.html'                   # Fill with your Bluesky profile link
   noblank: false
   
 - type: bluesky
