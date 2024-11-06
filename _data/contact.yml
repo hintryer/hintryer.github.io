@@ -14,12 +14,12 @@
 #  icon: "fas fa-rss"
 #  noblank: true
 - type: bluesky
-  icon: 'fa-solid fa-screwdriver-wrench'
+  icon: 'fa-solid fa-book'
   url: 'https://hincom.github.io/tool/Read.html'                   # Fill with your Bluesky profile link
   noblank: false
   
 - type: bluesky
-  icon: 'fa-solid fa-screwdriver-wrench'
+  icon: 'fa-brands fa-markdown'
   url: 'https://hincom.github.io/tool/Markdown.html'                   # Fill with your Bluesky profile link
   noblank: false
   
