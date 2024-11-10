@@ -29,7 +29,7 @@ order: 5
 
 [tool.lu/markdown/](https://tool.lu/markdown/) 自动保存、html2md，无法同步滚动
 
-[自制 Markdown 在线编辑器](https://hintryer.github.io/tool/Markdown.html)
+[自制 Markdown 在线编辑器](https://hincom.github.io/tool/Markdown.html)
 
 [开源Editor.md](https://pandao.github.io/editor.md/)
 
@@ -45,7 +45,7 @@ order: 5
 
 ## **源阅读**
 
-[自制源阅读编辑器](https://hintryer.github.io/tool/yuedu.html)
+[自制源阅读编辑器](https://hincom.github.io/tool/Read.html)
 
 [源阅读书源转换工具](https://rc.real9.cn/)
 
