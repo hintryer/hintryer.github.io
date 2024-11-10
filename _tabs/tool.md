@@ -1,24 +1,8 @@
 ---
-# the default layout is 'page'
 title: 工具
 icon: fas fa-info-circle
 order: 5
 ---
-
-
-## **在线PS**
-
-[Photopea](https://www.photopea.com/ "Photopea") 非常实用的一款在线Photoshop工具，无需注册登录
-
-[uupoop](https://www.uupoop.com "uupoop") 简单看作国内版的「Photopea」。下载需要注册
-
-## **一键抠图**
-
-[remove.bg](https://www.remove.bg/zh "remove.bg") 中文版容易打不开。
-
-## **OCR**
-
-[白描网页版](https://web.baimiaoapp.com/)
 
 ## **AI对话**
 
@@ -39,6 +23,7 @@ order: 5
 [https://htmlpage.cn/builder/](https://htmlpage.cn/builder/) 无需注册，自己设计，可导入导出源码
 
 [http://www.58html.com/html/](http://www.58html.com/html/) 可以QQ登录，右键编辑CSS属性，不可以导入源码
+[网页运行与美化](https://codebeautify.org/htmlviewer "网页运行与美化")
 
 ## **Markdown**
 
@@ -70,6 +55,19 @@ order: 5
 
 [源仓库](https://www.yckceo.com/yuedu/shuyuan/index.html)
 
+## **在线PS**
+
+[Photopea](https://www.photopea.com/ "Photopea") 非常实用的一款在线Photoshop工具，无需注册登录
+
+[uupoop](https://www.uupoop.com "uupoop") 简单看作国内版的「Photopea」。下载需要注册
+
+## **一键抠图**
+
+[remove.bg](https://www.remove.bg/zh "remove.bg") 中文版容易打不开。
+
+## **OCR**
+
+[白描网页版](https://web.baimiaoapp.com/)
 ## **音乐下载**
 
 [不死鸟音乐汇总](https://iui.su/2217/)
@@ -82,7 +80,6 @@ order: 5
 
 ## 其它
 
-
 [测试1](https://hintryer.github.io/ceshi/ "测试1")
 [测试2](https://hintryer.github.io/ceshi2/ "测试2")
 [测试3](https://hintryer.github.io/ceshi3/ "测试3")
@@ -92,4 +89,3 @@ order: 5
 [正则测试](https://regexr-cn.com/ "正则测试")
 [HTML运行与美化](https://codebeautify.org/htmlviewer "HTML运行与美化")
 [jsbeautify库属性](https://blog.csdn.net/u012732909/article/details/121791340 "jsbeautify库属性")
-
