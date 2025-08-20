@@ -4,8 +4,10 @@ title: 便携版Git(git-portable)的使用与配置
 ---
 ## 下载安装
 你需要从Git官网或镜像网站下载Git便携版
-Git官网  https://git-scm.cn/downloads/win
-镜像网站
+
+Git官网  [https://git-scm.cn/downloads/win](https://git-scm.cn/downloads/win "https://git-scm.cn/downloads/win")
+
+镜像网站  [https://registry.npmmirror.com/binary.html?path=git-for-windows/](https://registry.npmmirror.com/binary.html?path=git-for-windows/ "https://registry.npmmirror.com/binary.html?path=git-for-windows/")
 
 
 ## 修改用户目录
