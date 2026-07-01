@@ -15,9 +15,9 @@ order: 4
 
 [工具仓库](https://github.com/hintryer/tool)
 
-[Markdown 编辑器](https://hintryer.github.io/tool/read.html)
+[Markdown 编辑器](https://hintryer.github.io/tool/md.html)
 
-[源阅读书源转换工具](https://hintryer.github.io/tool/md.html)
+[源阅读书源转换工具](https://hintryer.github.io/tool/read.html)
 
 ## 阅读
 
