@@ -63,9 +63,10 @@
       .btn-row {
         display: flex;
         gap: 8px;
+        flex-wrap: wrap;
       }
       .btn {
-        flex: 1;
+        flex: 1 1 calc(50% - 4px);
         padding: 14px 6px;
         border-radius: 12px;
         background: #4285f4;
@@ -124,24 +125,67 @@
         <div class="btn-row">
           <a
             class="btn"
-            href="yuedu://booksource/importonline?src=https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/BookSource.json"
-            >导入</a
-          >
-          <a
-            class="btn btn-gray"
-            href="https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/BookSource.json"
-            target="_blank"
-            >打开</a
+            href="yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/BookSource.json"
+            >jsDelivr 导入</a
           >
           <button
             class="btn btn-copy"
             onclick="
               copyLink(
-                'https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/BookSource.json',
+                'https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/BookSource.json',
               )
             "
           >
-            复制
+            GitHub 直链复制
+          </button>
+          <a
+            class="btn btn-gray"
+            href="yuedu://booksource/importonline?src=https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/BookSource.json"
+            >GitHub 直链导入</a
+          >
+          <button
+            class="btn btn-copy"
+            onclick="
+              copyLink(
+                'https://cdn.jsdelivr.net/gh/hintryer/cdn/book/BookSource.json',
+              )
+            "
+          >
+            jsDelivr 直链复制
+          </button>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="title">阅读样式</div>
+        <div class="btn-row">
+          <a
+            class="btn"
+            href="yuedu://readstyle/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/init.srs"
+            >jsDelivr 导入</a
+          >
+          <button
+            class="btn btn-copy"
+            onclick="
+              copyLink(
+                'https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/init.srs',
+              )
+            "
+          >
+            GitHub 直链复制
+          </button>
+          <a
+            class="btn btn-gray"
+            href="yuedu://readstyle/importonline?src=https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/init.srs"
+            >GitHub 直链导入</a
+          >
+          <button
+            class="btn btn-copy"
+            onclick="
+              copyLink('https://cdn.jsdelivr.net/gh/hintryer/cdn/book/init.srs')
+            "
+          >
+            jsDelivr 直链复制
           </button>
         </div>
       </div>
@@ -151,24 +195,33 @@
         <div class="btn-row">
           <a
             class="btn"
-            href="yuedu://replaceRule/importonline?src=https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/ReplaceRule.json"
-            >导入</a
-          >
-          <a
-            class="btn btn-gray"
-            href="https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/ReplaceRule.json"
-            target="_blank"
-            >打开</a
+            href="yuedu://replaceRule/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/ReplaceRule.json"
+            >jsDelivr 导入</a
           >
           <button
             class="btn btn-copy"
             onclick="
               copyLink(
-                'https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/ReplaceRule.json',
+                'https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/ReplaceRule.json',
               )
             "
           >
-            复制
+            GitHub 直链复制
+          </button>
+          <a
+            class="btn btn-gray"
+            href="yuedu://replaceRule/importonline?src=https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/ReplaceRule.json"
+            >GitHub 直链导入</a
+          >
+          <button
+            class="btn btn-copy"
+            onclick="
+              copyLink(
+                'https://cdn.jsdelivr.net/gh/hintryer/cdn/book/ReplaceRule.json',
+              )
+            "
+          >
+            jsDelivr 直链复制
           </button>
         </div>
       </div>
@@ -178,24 +231,33 @@
         <div class="btn-row">
           <a
             class="btn"
-            href="yuedu://rsssource/importonline?src=https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/RssSource.json"
-            >导入</a
-          >
-          <a
-            class="btn btn-gray"
-            href="https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/RssSource.json"
-            target="_blank"
-            >打开</a
+            href="yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json"
+            >jsDelivr 导入</a
           >
           <button
             class="btn btn-copy"
             onclick="
               copyLink(
-                'https://gh-proxy.org/https://github.com/hintryer/book/raw/refs/heads/main/RssSource.json',
+                'https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/RssSource.json',
               )
             "
           >
-            复制
+            GitHub 直链复制
+          </button>
+          <a
+            class="btn btn-gray"
+            href="yuedu://rsssource/importonline?src=https://raw.githubusercontent.com/hintryer/cdn/refs/heads/main/book/RssSource.json"
+            >GitHub 直链导入</a
+          >
+          <button
+            class="btn btn-copy"
+            onclick="
+              copyLink(
+                'https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json',
+              )
+            "
+          >
+            jsDelivr 直链复制
           </button>
         </div>
       </div>
